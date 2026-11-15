@@ -30,7 +30,7 @@ struct Block {
 // ── built-in read-only files ─────────────────────────────────────────
 const FILES: &[(&str, &str)] = &[
     ("/README.md", "VAI Terminal — a portfolio you can explore like a filesystem.\n\nThis whole page is Rust compiled to WebAssembly (Leptos).\nIt understands both bash and PowerShell — try `ls` or `Get-ChildItem`.\n\nYou can also CREATE files: `echo \"hi\" > note.txt`, `touch todo`, `mkdir docs`.\nEverything you make is saved in your browser and restored next visit.\n\nStart with:  help  ·  projects  ·  tree"),
-    ("/about.txt", "Vadim Khristenko — VAI_PROG\n\nDeveloper. Systems code, networking, Rust and tidy interfaces.\nBuilding vai-rice.space piece by piece — every project its own style."),
+    ("/about.txt", "VAI_PROG (Vadim) — VAI_PROG\n\nDeveloper. Systems code, networking, Rust and tidy interfaces.\nBuilding vai-rice.space piece by piece — every project its own style."),
     ("/skills.txt", "Rust · WebAssembly · Leptos\nTypeScript · Vue · Astro · Tailwind\nLinux · Networking · VPN · Self-hosting"),
     ("/contact.txt", "mail   business@vai-rice.space\nsite   vai-rice.space"),
     ("/projects/horizon.md", "# Horizon 2027\nAn interactive, branching New Year experience.\nRust + Leptos + WASM · countdown to the Gregorian AND Chinese New Year.\nopen -> /files/horizon"),
@@ -254,7 +254,7 @@ fn run(cmd: &str, lang: &str, cwd: &str, fs: &[(String, String)]) -> Vec<(String
             }
         }
         "about" => vec![
-            (tr(lang, "Вадим Христенко — VAI_PROG", "Vadim Khristenko — VAI_PROG", "瓦季姆·赫里斯坚科 — VAI_PROG").to_string(), "h"),
+            (tr(lang, "VAI_PROG (Вадим) — VAI_PROG", "VAI_PROG (Vadim) — VAI_PROG", "瓦季姆·赫里斯坚科 — VAI_PROG").to_string(), "h"),
             (tr(lang, "Разработчик. Системный код, сети, Rust и аккуратные интерфейсы.", "Developer. Systems code, networking, Rust and tidy interfaces.", "开发者。系统代码、网络、Rust 与整洁的界面。").to_string(), ""),
             (tr(lang, "Собираю vai-rice.space по кусочку — каждый проект в своём стиле.", "Building vai-rice.space piece by piece — each project in its own style.", "一点一点地构建 vai-rice.space —— 每个项目都有自己的风格。").to_string(), "dim"),
         ],

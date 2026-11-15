@@ -153,4 +153,4 @@ README 本身也从零重写，现在有两份：英文和俄文。引擎会同�
 
 主页不再像一个模板。每张卡片都用自己项目的语言讲述那个项目，一切由一个 Rust 程序绘制，在 Actions 里点一下就能重建，而且比以前更轻。
 
-欢迎来看看：[github.com/Vadim-Khristenko](https://github.com/Vadim-Khristenko)。如果你也想要一个这样的引擎，它就在主页仓库的 `engine/` 文件夹里。
+欢迎来看看：[github.com/VAIPROG](https://github.com/VAIPROG)。如果你也想要一个这样的引擎，它就在主页仓库的 `engine/` 文件夹里。

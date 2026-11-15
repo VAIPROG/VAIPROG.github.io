@@ -2,7 +2,7 @@
 name = "vai-terminal"
 version = "0.1.0"
 edition = "2024"
-authors = ["Vadim Khristenko <business@vai-rice.space>"]
+authors = ["VAI_PROG (Vadim) <business@vai-rice.space>"]
 description = "VAI Terminal — an interactive command-line portfolio (Rust + Leptos + WASM)"
 
 [dependencies]

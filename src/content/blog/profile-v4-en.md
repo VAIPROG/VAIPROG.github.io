@@ -153,4 +153,4 @@ The new cards brought a proper spring clean with them:
 
 The profile no longer looks like a template. Every card talks about its project in that project's own language, everything is drawn by one Rust binary, rebuilds with one button in Actions and weighs less than before.
 
-Come have a look: [github.com/Vadim-Khristenko](https://github.com/Vadim-Khristenko). And if you want an engine like this for yourself, it lives right in the profile repo, in the `engine/` folder.
+Come have a look: [github.com/VAIPROG](https://github.com/VAIPROG). And if you want an engine like this for yourself, it lives right in the profile repo, in the `engine/` folder.

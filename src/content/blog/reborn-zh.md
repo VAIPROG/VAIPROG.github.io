@@ -18,7 +18,7 @@ cover: /VAI-BANNER.png
 
 不是重构。不是「渐进式迁移」。是彻底铲平，然后重写。
 
-这是一个关于倔强开发者的故事：他迁到 Astro 7，扔掉 React，告别 Tailwind，和 `vadim-khristenko.github.io` 划清界限，重做 CI，用 Rust 写了三个小应用，教会网站自己收集统计数据——而且没有疯掉。嗯，几乎没有。剧透一下：整个过程里网络掉线掉得相当有规律，这个后面再说。
+这是一个关于倔强开发者的故事：他迁到 Astro 7，扔掉 React，告别 Tailwind，和 `vai-rice.space` 划清界限，重做 CI，用 Rust 写了三个小应用，教会网站自己收集统计数据——而且没有疯掉。嗯，几乎没有。剧透一下：整个过程里网络掉线掉得相当有规律，这个后面再说。
 
 ---
 
@@ -127,9 +127,9 @@ const blog = defineCollection({
 
 ---
 
-## 自己的域名：再见，`vadim-khristenko.github.io`
+## 自己的域名：再见，`vai-rice.space`
 
-很长一段时间，网站住在 `vadim-khristenko.github.io`。能用吗？能用。但那就像拿着 mail.ru 邮箱去面试：功能上没问题，可总留下点什么。又长、又臃肿、又是借来的。
+很长一段时间，网站住在 `vai-rice.space`。能用吗？能用。但那就像拿着 mail.ru 邮箱去面试：功能上没问题，可总留下点什么。又长、又臃肿、又是借来的。
 
 现在有了 **`vai-rice.space`** 和 **`www.vai-rice.space`**。自己的域名，自己的规矩。
 
@@ -138,7 +138,7 @@ const blog = defineCollection({
 需要理清的东西：
 
 - **顶级（apex）域名**——四条指向 GitHub Pages IP 的 `A` 记录（以及给 IPv6 的 `AAAA`，因为我们不是野蛮人）。
-- **`www`**——一条单独指向 `vadim-khristenko.github.io` 的 `CNAME` 记录。不是 apex。永远不是 apex。
+- **`www`**——一条单独指向 `vai-rice.space` 的 `CNAME` 记录。不是 apex。永远不是 apex。
 - **构建根目录里的 `CNAME` 文件**——否则 GitHub Pages 每次部署都会开心地忘记自己是谁、为了什么。
 - **HTTPS**——Let's Encrypt 证书会自动签发，但要等 DNS 完全生效之后。也就是说：你配好了，一切正确，然后你就坐着等。刷新。再等。
 - **重定向**——好让 `www` 和 apex 在搜索引擎眼里不是两个不同的站点，而是规范化成同一个实体。

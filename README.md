@@ -2,14 +2,14 @@
 
 # vai-rice.space
 
-**Personal site of Vadim Khristenko — a.k.a. VAI_PROG.**
+**Personal site of VAI_PROG (Vadim) — a.k.a. VAI_PROG.**
 Developer · bot-maker · open-source activist. Systems code, Rust, and interfaces that don't look like everyone else's.
 
 **English** · [Русский](README.ru.md) · [中文](README.zh.md)
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fvai-rice.space&label=vai-rice.space&up_message=online)](https://vai-rice.space)
-[![Stars](https://img.shields.io/github/stars/Vadim-Khristenko/Vadim-Khristenko.github.io?style=flat&logo=github)](https://github.com/Vadim-Khristenko/Vadim-Khristenko.github.io/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/Vadim-Khristenko/Vadim-Khristenko.github.io)](https://github.com/Vadim-Khristenko/Vadim-Khristenko.github.io/commits)
+[![Stars](https://img.shields.io/github/stars/VAIPROG/vai-rice.space?style=flat&logo=github)](https://github.com/VAIPROG/vai-rice.space/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/VAIPROG/vai-rice.space)](https://github.com/VAIPROG/vai-rice.space/commits)
 [![Astro](https://img.shields.io/badge/Astro-7-BC52EE?logo=astro&logoColor=white)](https://astro.build)
 [![Vue](https://img.shields.io/badge/Vue-3.5-42b883?logo=vuedotjs&logoColor=white)](https://vuejs.org)
 [![Rust](https://img.shields.io/badge/Rust-WASM-dea584?logo=rust&logoColor=white)](https://www.rust-lang.org)
@@ -109,18 +109,18 @@ gh api repos/actions/checkout/releases/latest -q .tag_name   # latest upstream t
 ## 🤝 Contributing
 
 Know a community or a person that belongs here? Use the trilingual issue forms:
-[suggest a community](https://github.com/Vadim-Khristenko/Vadim-Khristenko.github.io/issues/new?template=suggest-community.yml) ·
-[add a friend](https://github.com/Vadim-Khristenko/Vadim-Khristenko.github.io/issues/new?template=suggest-friend.yml).
+[suggest a community](https://github.com/VAIPROG/vai-rice.space/issues/new?template=suggest-community.yml) ·
+[add a friend](https://github.com/VAIPROG/vai-rice.space/issues/new?template=suggest-friend.yml).
 
 ## 📜 License
 
 Two licenses, both explained in plain words on the [`/license`](https://vai-rice.space/license) page:
 
-- **Code → VKPPL v1.0** (*Vadim Khristenko Personal Project License*, see [LICENSE](LICENSE)).
+- **Code → VKPPL v1.0** (*VAI_PROG (Vadim) Personal Project License*, see [LICENSE](LICENSE)).
 - **Writing & posts → VAI Content License (VCL) v1.0** — read, quote and share with a link; no full re-publishing.
 
 For both: ✅ non-commercial use · ❌ commercial use without permission · ❌ AI / ML training on the code or content.
 
 ## 📇 Contact
 
-**business@vai-rice.space** · [vai-rice.space](https://vai-rice.space) · [github.com/Vadim-Khristenko](https://github.com/Vadim-Khristenko)
+**business@vai-rice.space** · [vai-rice.space](https://vai-rice.space) · [github.com/VAIPROG](https://github.com/VAIPROG)

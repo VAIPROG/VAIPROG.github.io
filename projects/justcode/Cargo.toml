@@ -2,7 +2,7 @@
 name = "justcode"
 version = "0.2.0"
 edition = "2024"
-authors = ["Vadim Khristenko <business@vai-rice.space>"]
+authors = ["VAI_PROG (Vadim) <business@vai-rice.space>"]
 description = "JustCode 2027 — turn code into beautiful screenshots (Rust + Leptos + WASM)"
 
 [dependencies]

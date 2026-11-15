@@ -99,7 +99,7 @@ const dateStr = ref('');
 const pinned = [
   { name: 'Projects', tile: '{ }', color: '#0078D4', url: '#projects' },
   { name: 'Blog', tile: 'B', color: '#8B5CF6', url: '/blog/' },
-  { name: 'GitHub', tile: 'G', color: '#2B3137', url: 'https://github.com/Vadim-Khristenko' },
+  { name: 'GitHub', tile: 'G', color: '#2B3137', url: 'https://github.com/VAIPROG' },
   { name: 'Contact', tile: '@', color: '#10B981', url: '#contact' },
   { name: 'Snackers Wiki', tile: 'S', color: '#FF5FA2', url: 'https://snackers.vai-rice.space' },
   { name: 'Editor', tile: 'E', color: '#F59E0B', url: '/editor' },

@@ -46,13 +46,13 @@
           </a>
 
           <!-- Email copy -->
-          <button class="social-card email" @click="copyEmail('just@vai-prog.ru')">
+          <button class="social-card email" @click="copyEmail('vadim@vai-rice.space')">
             <div class="social-icon">
               <Mail :size="20" />
             </div>
             <div class="social-info">
               <span class="social-name">Email (Legacy)</span>
-              <span class="social-handle">{{ copiedEmail === 'just@vai-prog.ru' ? t('contact.copied') : 'just@vai-prog.ru' }}</span>
+              <span class="social-handle">{{ copiedEmail === 'vadim@vai-rice.space' ? t('contact.copied') : 'vadim@vai-rice.space' }}</span>
             </div>
           </button>
 
@@ -149,7 +149,7 @@ const projectEmails = [
 ];
 
 const socials = [
-  { name: 'GitHub', handle: '@Vadim-Khristenko', url: 'https://github.com/Vadim-Khristenko', icon: Github, brand: siGithub, class: 'gh' },
+  { name: 'GitHub', handle: '@VAIPROG', url: 'https://github.com/VAIPROG', icon: Github, brand: siGithub, class: 'gh' },
   { name: 'Telegram', handle: '@vscreator_life', url: 'https://t.me/vscreator_life', icon: MessageCircle, brand: siTelegram, class: 'tg' },
   { name: 'Twitch', handle: 'VAI_PROG', url: 'https://twitch.tv/VAI_PROG', icon: Twitch, brand: siTwitch, class: 'tw' },
   { name: 'X / Twitter', handle: '@VAI_PROG', url: 'https://x.com/VAI_PROG', icon: Twitter, brand: siX, class: 'x' },

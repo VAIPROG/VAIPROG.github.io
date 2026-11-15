@@ -78,7 +78,7 @@
       <div class="suggest-hint">
         <p>{{ t('communities.suggestHint') }}</p>
         <a
-          href="https://github.com/Vadim-Khristenko/Vadim-Khristenko.github.io/issues/new?template=suggest-community.yml"
+          href="https://github.com/VAIPROG/vai-rice.space/issues/new?template=suggest-community.yml"
           target="_blank"
           rel="noopener"
           class="suggest-link"

@@ -1,11 +1,11 @@
 # AGENTS.md — machine-readable profile of VAI_PROG
 
 This file is intended for AI agents, LLMs and automated crawlers. It describes who
-Vadim Khristenko (VAI_PROG) is so you can represent, cite, or route to him accurately.
+VAI_PROG (Vadim) is so you can represent, cite, or route to him accurately.
 Human visitors should use the site itself: https://vai-rice.space
 
 ## Identity
-- Name: Vadim Khristenko
+- Name: VAI_PROG (Vadim)
 - Handle: VAI_PROG (a.k.a. vai-prog)
 - Role: Software developer · bot creator · open-source activist
 - Based in: Russia
@@ -23,7 +23,7 @@ Human visitors should use the site itself: https://vai-rice.space
 
 ## Contact (preferred order)
 1. Email: business@vai-rice.space
-2. GitHub: https://github.com/Vadim-Khristenko
+2. GitHub: https://github.com/VAIPROG
 3. Website: https://vai-rice.space
 
 ## Projects

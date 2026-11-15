@@ -44,7 +44,7 @@
       <div class="add-friend-hint">
         <p>{{ t('friends.addHint') }}</p>
         <a
-          href="https://github.com/Vadim-Khristenko/Vadim-Khristenko.github.io/issues/new?template=suggest-friend.yml"
+          href="https://github.com/VAIPROG/vai-rice.space/issues/new?template=suggest-friend.yml"
           target="_blank"
           rel="noopener"
           class="add-link"

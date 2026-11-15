@@ -89,7 +89,7 @@ const results = [
   { name: 'Communities', hint: 'Where I hang out', kind: 'Section', glyph: '◎', color: 'linear-gradient(135deg,#6EE7E7,#22C1C3)', url: '#communities' },
   { name: 'Blog', hint: 'Notes & updates', kind: 'Page', glyph: 'B', color: 'linear-gradient(135deg,#A78BFA,#7C3AED)', url: '/blog/' },
   { name: 'Contact', hint: 'Say hi', kind: 'Section', glyph: '@', color: 'linear-gradient(135deg,#7CF0B0,#10B981)', url: '#contact' },
-  { name: 'GitHub', hint: 'Open source', kind: 'Web', glyph: 'G', color: 'linear-gradient(135deg,#8b95a5,#2B3137)', url: 'https://github.com/Vadim-Khristenko' },
+  { name: 'GitHub', hint: 'Open source', kind: 'Web', glyph: 'G', color: 'linear-gradient(135deg,#8b95a5,#2B3137)', url: 'https://github.com/VAIPROG' },
 ];
 const filtered = computed(() => {
   const q = query.value.trim().toLowerCase();

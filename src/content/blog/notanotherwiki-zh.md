@@ -137,4 +137,4 @@ FilianWIKI 从第一天起就是双语的。每篇条目都有语言，译本链
 
 接下来是社区可以自己编写的插件，以及第一个正式版本。
 
-代码是开源的：[github.com/Vadim-Khristenko/NotAnOtherVTUBERwiki](https://github.com/Vadim-Khristenko/NotAnOtherVTUBERwiki)。维基在 [beta.filian.wiki](https://beta.filian.wiki)。FilianWIKI 的横幅和图标由 SnackersHQ 的 **just.call.me.l** 手绘，特此致谢。
+代码是开源的：[github.com/VAIPROG/NotAnOtherVTUBERwiki](https://github.com/VAIPROG/NotAnOtherVTUBERwiki)。维基在 [beta.filian.wiki](https://beta.filian.wiki)。FilianWIKI 的横幅和图标由 SnackersHQ 的 **just.call.me.l** 手绘，特此致谢。

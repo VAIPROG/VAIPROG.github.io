@@ -1,6 +1,6 @@
 export const hero = {
-  'hero.aka': 'Привет! 👋 Я Вадим Христенко (Vadim Khristenko). А ещё меня могут знать под псевдонимами: VAI PROG, VAI Programmer, VOLT BOT5, VOLT SYNAPSE, VadKh, Just another Coder.',
-  'hero.name': 'Вадим Христенко',
+  'hero.aka': 'Привет! 👋 Я VAI_PROG (Вадим) (VAI_PROG (Vadim)). А ещё меня могут знать под псевдонимами: VAI PROG, VAI Programmer, VOLT BOT5, VOLT SYNAPSE, VadKh, Just another Coder.',
+  'hero.name': 'VAI_PROG (Вадим)',
   'hero.title': 'Разработчик • Создатель быстрых систем, ботов и странных экспериментов',
   'hero.subtitle': 'А ещё автор рассказов и фанфиков — люблю рассказывать истории в перерывах между коммитами.',
   'hero.born': 'Родился 18.09.2010 — сейчас мне',

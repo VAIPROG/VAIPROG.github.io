@@ -71,7 +71,7 @@
       <div class="proj-why">
         <h4>{{ t('projects.why') }}</h4>
         <p>{{ t('projects.why.desc') }}</p>
-        <a href="https://github.com/Vadim-Khristenko?tab=repositories" target="_blank" rel="noopener" class="gh-link">
+        <a href="https://github.com/VAIPROG?tab=repositories" target="_blank" rel="noopener" class="gh-link">
           <Github :size="16" />
           {{ t('projects.viewGithub') }}
         </a>

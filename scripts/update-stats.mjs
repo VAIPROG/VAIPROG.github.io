@@ -4,7 +4,7 @@
 // without hitting the GitHub API per visitor.
 import { writeFileSync, mkdirSync } from 'node:fs';
 
-const USER = 'Vadim-Khristenko';
+const USER = 'VAIPROG';
 const TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN || '';
 const headers = {
   Accept: 'application/vnd.github+json',

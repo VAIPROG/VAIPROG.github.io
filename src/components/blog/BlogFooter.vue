@@ -6,7 +6,7 @@
       <div class="blog-footer-links">
         <a href="/">{{ t('blog.home') }}</a>
         <a href="/blog/">{{ t('nav.blog') }}</a>
-        <a href="https://github.com/Vadim-Khristenko" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://github.com/VAIPROG" target="_blank" rel="noopener">GitHub</a>
         <a href="/#contact">{{ t('nav.contact') }}</a>
         <a href="/license">{{ t('nav.license') }}</a>
         <a

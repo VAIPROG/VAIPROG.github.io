@@ -137,4 +137,4 @@ Since 6 October FilianWIKI has been in open beta: anyone can sign in with Discor
 
 Next up are plugins the community can write on its own, and the first real release.
 
-The code is open: [github.com/Vadim-Khristenko/NotAnOtherVTUBERwiki](https://github.com/Vadim-Khristenko/NotAnOtherVTUBERwiki). The wiki lives at [beta.filian.wiki](https://beta.filian.wiki). The FilianWIKI banner and icon were drawn by **just.call.me.l** from SnackersHQ, by hand, and a special thank you for that.
+The code is open: [github.com/VAIPROG/NotAnOtherVTUBERwiki](https://github.com/VAIPROG/NotAnOtherVTUBERwiki). The wiki lives at [beta.filian.wiki](https://beta.filian.wiki). The FilianWIKI banner and icon were drawn by **just.call.me.l** from SnackersHQ, by hand, and a special thank you for that.

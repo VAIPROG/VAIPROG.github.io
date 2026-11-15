@@ -88,7 +88,7 @@
       "forks": 22,
       "issues": 0,
       "language": "TypeScript",
-      "url": "https://github.com/Vadim-Khristenko/Any-Tech-ARCHITECT",
+      "url": "https://github.com/VAIPROG/Any-Tech-ARCHITECT",
       "description": "Any Tech ARCHITECT modern obfuscation generator for you.",
       "release": "v4.5.2"
     },
@@ -98,7 +98,7 @@
       "forks": 4,
       "issues": 0,
       "language": "Rust",
-      "url": "https://github.com/Vadim-Khristenko/awg-containers-and-tools",
+      "url": "https://github.com/VAIPROG/awg-containers-and-tools",
       "description": "Unofficial self-hosted AmneziaWG 1.0/1.5/2.0/3.0 — container images plus a Rust CLI for parameter generation, SSH deployment and server management",
       "release": "v0.5.5"
     },
@@ -108,7 +108,7 @@
       "forks": 0,
       "issues": 5,
       "language": "Astro",
-      "url": "https://github.com/Vadim-Khristenko/Tedu_Notes",
+      "url": "https://github.com/VAIPROG/Tedu_Notes",
       "description": "Some IT Notes bcz we can)"
     },
     {
@@ -117,7 +117,7 @@
       "forks": 1,
       "issues": 0,
       "language": "Python",
-      "url": "https://github.com/Vadim-Khristenko/algo_async_api",
+      "url": "https://github.com/VAIPROG/algo_async_api",
       "description": "ALGO API | Код написанный на Языке Python который позволяет взаимодействовать с платформой learn.algoritmika.org"
     },
     {
@@ -126,7 +126,7 @@
       "forks": 0,
       "issues": 1,
       "language": "Python",
-      "url": "https://github.com/Vadim-Khristenko/foxford_api",
+      "url": "https://github.com/VAIPROG/foxford_api",
       "description": "API FOXFORD | Код написанный на Языке Python который позволяет взаимодействовать с платформой foxford.ru"
     },
     {
@@ -135,7 +135,7 @@
       "forks": 2,
       "issues": 5,
       "language": "Rust",
-      "url": "https://github.com/Vadim-Khristenko/kumir3-core",
+      "url": "https://github.com/VAIPROG/kumir3-core",
       "description": "Just Kumir 3. Side-project. Made bcz I can and fun)"
     }
   ],
@@ -146,7 +146,7 @@
       "forks": 0,
       "issues": 1,
       "language": "TypeScript",
-      "url": "https://github.com/Vadim-Khristenko/HatsuneMikuEditorTheme",
+      "url": "https://github.com/VAIPROG/HatsuneMikuEditorTheme",
       "description": "Hatsune Miku themes for VS Code, Zed, JetBrains, Neovim, Sublime, Notepad++",
       "release": "latest"
     },
@@ -156,7 +156,7 @@
       "forks": 22,
       "issues": 0,
       "language": "TypeScript",
-      "url": "https://github.com/Vadim-Khristenko/Any-Tech-ARCHITECT",
+      "url": "https://github.com/VAIPROG/Any-Tech-ARCHITECT",
       "description": "Any Tech ARCHITECT modern obfuscation generator for you.",
       "release": "v4.5.2"
     },
@@ -166,26 +166,26 @@
       "forks": 4,
       "issues": 0,
       "language": "Rust",
-      "url": "https://github.com/Vadim-Khristenko/awg-containers-and-tools",
+      "url": "https://github.com/VAIPROG/awg-containers-and-tools",
       "description": "Unofficial self-hosted AmneziaWG 1.0/1.5/2.0/3.0 — container images plus a Rust CLI for parameter generation, SSH deployment and server management",
       "release": "v0.5.5"
     },
-    "vadim-khristenko.github.io": {
-      "name": "Vadim-Khristenko.github.io",
+    "vai-rice.space": {
+      "name": "vai-rice.space",
       "stars": 1,
       "forks": 0,
       "issues": 4,
       "language": "Vue",
-      "url": "https://github.com/Vadim-Khristenko/Vadim-Khristenko.github.io",
+      "url": "https://github.com/VAIPROG/vai-rice.space",
       "description": "Just my portfolio website and smth more) (pwd by RUST & VUE & ASTRO)"
     },
-    "vadim-khristenko": {
-      "name": "Vadim-Khristenko",
+    "vaiprog": {
+      "name": "VAIPROG",
       "stars": 0,
       "forks": 0,
       "issues": 0,
       "language": "Rust",
-      "url": "https://github.com/Vadim-Khristenko/Vadim-Khristenko",
+      "url": "https://github.com/VAIPROG/VAIPROG",
       "description": "Config files for my GitHub profile."
     },
     "notanothervtuberwiki": {
@@ -194,7 +194,7 @@
       "forks": 0,
       "issues": 0,
       "language": "Rust",
-      "url": "https://github.com/Vadim-Khristenko/NotAnOtherVTUBERwiki",
+      "url": "https://github.com/VAIPROG/NotAnOtherVTUBERwiki",
       "description": "A wiki engine for fan communities that refuses to suck."
     },
     "telegram-theme-action": {
@@ -203,7 +203,7 @@
       "forks": 0,
       "issues": 0,
       "language": "TypeScript",
-      "url": "https://github.com/Vadim-Khristenko/telegram-theme-action",
+      "url": "https://github.com/VAIPROG/telegram-theme-action",
       "description": "GitHub Action that keeps Telegram cloud themes in sync with your repository: creates, updates, skips unchanged, one t.me/addtheme link for Android and Desktop.",
       "release": "v1.0.0"
     },
@@ -213,7 +213,7 @@
       "forks": 0,
       "issues": 0,
       "language": null,
-      "url": "https://github.com/Vadim-Khristenko/EkeVoki.github.io",
+      "url": "https://github.com/VAIPROG/EkeVoki.github.io",
       "description": "EkeVoki.github.io - the repository that is my website^^"
     },
     "slopcontest": {
@@ -222,7 +222,7 @@
       "forks": 0,
       "issues": 0,
       "language": null,
-      "url": "https://github.com/Vadim-Khristenko/slopcontest",
+      "url": "https://github.com/VAIPROG/slopcontest",
       "description": ""
     },
     "algo_async_api": {
@@ -231,7 +231,7 @@
       "forks": 1,
       "issues": 0,
       "language": "Python",
-      "url": "https://github.com/Vadim-Khristenko/algo_async_api",
+      "url": "https://github.com/VAIPROG/algo_async_api",
       "description": "ALGO API | Код написанный на Языке Python который позволяет взаимодействовать с платформой learn.algoritmika.org"
     },
     "kivotosdustry": {
@@ -240,7 +240,7 @@
       "forks": 0,
       "issues": 0,
       "language": null,
-      "url": "https://github.com/Vadim-Khristenko/KivotosDustry",
+      "url": "https://github.com/VAIPROG/KivotosDustry",
       "description": "Blue Archive Soundtracks and Cosmetics in Mindustry"
     },
     "awg-hosting-wiki": {
@@ -249,7 +249,7 @@
       "forks": 0,
       "issues": 0,
       "language": null,
-      "url": "https://github.com/Vadim-Khristenko/awg-hosting-wiki",
+      "url": "https://github.com/VAIPROG/awg-hosting-wiki",
       "description": ""
     },
     "tdesktop": {
@@ -258,7 +258,7 @@
       "forks": 0,
       "issues": 0,
       "language": "C++",
-      "url": "https://github.com/Vadim-Khristenko/tdesktop",
+      "url": "https://github.com/VAIPROG/tdesktop",
       "description": "Telegram Desktop messaging app"
     },
     "kumir3-core": {
@@ -267,7 +267,7 @@
       "forks": 2,
       "issues": 5,
       "language": "Rust",
-      "url": "https://github.com/Vadim-Khristenko/kumir3-core",
+      "url": "https://github.com/VAIPROG/kumir3-core",
       "description": "Just Kumir 3. Side-project. Made bcz I can and fun)"
     },
     "aiogram-3-guide": {
@@ -276,7 +276,7 @@
       "forks": 1,
       "issues": 0,
       "language": "Python",
-      "url": "https://github.com/Vadim-Khristenko/aiogram-3-guide",
+      "url": "https://github.com/VAIPROG/aiogram-3-guide",
       "description": "Пишем Telegram-ботов с aiogram 3.x"
     },
     "vai-framework": {
@@ -285,7 +285,7 @@
       "forks": 0,
       "issues": 0,
       "language": "PowerShell",
-      "url": "https://github.com/Vadim-Khristenko/vai-framework",
+      "url": "https://github.com/VAIPROG/vai-framework",
       "description": "VAI-Framework — hybrid-registry PowerShell toolkit: modules, SEX runner, AgentHub, Docker, Git, DevBuild. Ship. Execute. eXcite.",
       "release": "v5.4.0"
     },
@@ -295,7 +295,7 @@
       "forks": 0,
       "issues": 0,
       "language": "TypeScript",
-      "url": "https://github.com/Vadim-Khristenko/quoted-matrix",
+      "url": "https://github.com/VAIPROG/quoted-matrix",
       "description": "A Matrix bot for quoting messages into stickers"
     },
     "thewall": {
@@ -304,7 +304,7 @@
       "forks": 0,
       "issues": 0,
       "language": "TypeScript",
-      "url": "https://github.com/Vadim-Khristenko/TheWall",
+      "url": "https://github.com/VAIPROG/TheWall",
       "description": "A Win95-styled browser extension (and Tampermonkey userscript) for The Wall at filianislost.com "
     },
     "whatcode": {
@@ -313,7 +313,7 @@
       "forks": 0,
       "issues": 0,
       "language": "Rust",
-      "url": "https://github.com/Vadim-Khristenko/WhatCode",
+      "url": "https://github.com/VAIPROG/WhatCode",
       "description": "WhatCode: Uncompromising AI performance meets a bold, unforgettable personality."
     },
     "vaidcord": {
@@ -322,7 +322,7 @@
       "forks": 1,
       "issues": 0,
       "language": "Python",
-      "url": "https://github.com/Vadim-Khristenko/vaidcord",
+      "url": "https://github.com/VAIPROG/vaidcord",
       "description": "Async Discord bot SDK for Python / GO / Rust, inspired by aiogram and more.",
       "release": "rust-v0.2.0"
     },
@@ -332,7 +332,7 @@
       "forks": 0,
       "issues": 0,
       "language": "Vue",
-      "url": "https://github.com/Vadim-Khristenko/PRODHugs",
+      "url": "https://github.com/VAIPROG/PRODHugs",
       "description": "just for fun. vibecode warning"
     },
     "duckthisdocker": {
@@ -341,7 +341,7 @@
       "forks": 0,
       "issues": 0,
       "language": null,
-      "url": "https://github.com/Vadim-Khristenko/DuckThisDocker",
+      "url": "https://github.com/VAIPROG/DuckThisDocker",
       "description": "Production-grade, multi-language Docker build templates with maximum optimization, security, and reproducibility. Multi-stage builds, layer caching, minimal images, and best practices for Rust, Python, C++, Zig, Go, Node.js, and more."
     },
     "search-for-you": {
@@ -350,7 +350,7 @@
       "forks": 0,
       "issues": 0,
       "language": "CSS",
-      "url": "https://github.com/Vadim-Khristenko/Search-for-YOU",
+      "url": "https://github.com/VAIPROG/Search-for-YOU",
       "description": ""
     },
     "just-meme-i-use-arch-btw": {
@@ -359,7 +359,7 @@
       "forks": 0,
       "issues": 0,
       "language": "JavaScript",
-      "url": "https://github.com/Vadim-Khristenko/just-meme-i-use-arch-btw",
+      "url": "https://github.com/VAIPROG/just-meme-i-use-arch-btw",
       "description": ""
     },
     "public-policy": {
@@ -368,7 +368,7 @@
       "forks": 0,
       "issues": 0,
       "language": "Rust",
-      "url": "https://github.com/Vadim-Khristenko/public-policy",
+      "url": "https://github.com/VAIPROG/public-policy",
       "description": ""
     },
     "prod-bdays": {
@@ -377,7 +377,7 @@
       "forks": 0,
       "issues": 0,
       "language": null,
-      "url": "https://github.com/Vadim-Khristenko/prod-bdays",
+      "url": "https://github.com/VAIPROG/prod-bdays",
       "description": "Реестр дней рождения комьюнити PROD — Международной Олимпиады по Промышленной Разработке."
     },
     "prod-parser": {
@@ -386,7 +386,7 @@
       "forks": 0,
       "issues": 0,
       "language": "Go",
-      "url": "https://github.com/Vadim-Khristenko/PROD-Parser",
+      "url": "https://github.com/VAIPROG/PROD-Parser",
       "description": "Telegram parser for PROD chats. Written in GO and I don't have any Idea WHY."
     },
     "amneziawg-go": {
@@ -395,7 +395,7 @@
       "forks": 0,
       "issues": 0,
       "language": "Go",
-      "url": "https://github.com/Vadim-Khristenko/amneziawg-go",
+      "url": "https://github.com/VAIPROG/amneziawg-go",
       "description": "AmneziaWG VPN protocol"
     },
     "prod-2026-ind-docs": {
@@ -404,7 +404,7 @@
       "forks": 0,
       "issues": 0,
       "language": null,
-      "url": "https://github.com/Vadim-Khristenko/prod-2026-ind-docs",
+      "url": "https://github.com/VAIPROG/prod-2026-ind-docs",
       "description": ""
     },
     "torpress": {
@@ -413,7 +413,7 @@
       "forks": 0,
       "issues": 0,
       "language": "Shell",
-      "url": "https://github.com/Vadim-Khristenko/torpress",
+      "url": "https://github.com/VAIPROG/torpress",
       "description": "Website in TOR network Docker container"
     },
     "tedu_notes": {
@@ -422,7 +422,7 @@
       "forks": 0,
       "issues": 5,
       "language": "Astro",
-      "url": "https://github.com/Vadim-Khristenko/Tedu_Notes",
+      "url": "https://github.com/VAIPROG/Tedu_Notes",
       "description": "Some IT Notes bcz we can)"
     },
     "astro-theme-thought-lite": {
@@ -431,7 +431,7 @@
       "forks": 0,
       "issues": 1,
       "language": "TypeScript",
-      "url": "https://github.com/Vadim-Khristenko/astro-theme-thought-lite",
+      "url": "https://github.com/VAIPROG/astro-theme-thought-lite",
       "description": "A modern Astro theme, focused on content creation."
     },
     "amneziawg-windows-client": {
@@ -440,7 +440,7 @@
       "forks": 0,
       "issues": 0,
       "language": null,
-      "url": "https://github.com/Vadim-Khristenko/amneziawg-windows-client",
+      "url": "https://github.com/VAIPROG/amneziawg-windows-client",
       "description": "AmneziaWG client for Windows"
     },
     "via_info": {
@@ -449,7 +449,7 @@
       "forks": 1,
       "issues": 0,
       "language": null,
-      "url": "https://github.com/Vadim-Khristenko/VIA_info",
+      "url": "https://github.com/VAIPROG/VIA_info",
       "description": "Bug tracking system for VIA bot."
     },
     "foxford_api": {
@@ -458,7 +458,7 @@
       "forks": 0,
       "issues": 1,
       "language": "Python",
-      "url": "https://github.com/Vadim-Khristenko/foxford_api",
+      "url": "https://github.com/VAIPROG/foxford_api",
       "description": "API FOXFORD | Код написанный на Языке Python который позволяет взаимодействовать с платформой foxford.ru"
     },
     "ejudge-registration": {
@@ -467,7 +467,7 @@
       "forks": 0,
       "issues": 0,
       "language": "Python",
-      "url": "https://github.com/Vadim-Khristenko/ejudge-registration",
+      "url": "https://github.com/VAIPROG/ejudge-registration",
       "description": "Async Python script for easy user creation and registration in ejudge"
     },
     "codeforces-redesign": {
@@ -476,7 +476,7 @@
       "forks": 0,
       "issues": 0,
       "language": "TypeScript",
-      "url": "https://github.com/Vadim-Khristenko/codeforces-redesign",
+      "url": "https://github.com/VAIPROG/codeforces-redesign",
       "description": ""
     },
     "aiogram": {
@@ -485,7 +485,7 @@
       "forks": 0,
       "issues": 0,
       "language": "Python",
-      "url": "https://github.com/Vadim-Khristenko/aiogram",
+      "url": "https://github.com/VAIPROG/aiogram",
       "description": "aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio"
     },
     "telegram-bot-api": {
@@ -494,7 +494,7 @@
       "forks": 0,
       "issues": 0,
       "language": "Shell",
-      "url": "https://github.com/Vadim-Khristenko/telegram-bot-api",
+      "url": "https://github.com/VAIPROG/telegram-bot-api",
       "description": "Aiogram Docker image of Telegram Bot API Server"
     },
     "chromecloak": {
@@ -503,7 +503,7 @@
       "forks": 0,
       "issues": 0,
       "language": "Python",
-      "url": "https://github.com/Vadim-Khristenko/chromecloak",
+      "url": "https://github.com/VAIPROG/chromecloak",
       "description": "Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)"
     },
     "unciv": {
@@ -512,7 +512,7 @@
       "forks": 0,
       "issues": 0,
       "language": "Kotlin",
-      "url": "https://github.com/Vadim-Khristenko/Unciv",
+      "url": "https://github.com/VAIPROG/Unciv",
       "description": "Open-source Android/Desktop remake of Civ V"
     },
     "tlbas-docker": {
@@ -521,7 +521,7 @@
       "forks": 0,
       "issues": 0,
       "language": "Shell",
-      "url": "https://github.com/Vadim-Khristenko/tlbas-docker",
+      "url": "https://github.com/VAIPROG/tlbas-docker",
       "description": "TLBAS Docker"
     },
     "via-actions": {
@@ -530,7 +530,7 @@
       "forks": 0,
       "issues": 0,
       "language": null,
-      "url": "https://github.com/Vadim-Khristenko/VIA-actions",
+      "url": "https://github.com/VAIPROG/VIA-actions",
       "description": "Multifunctional bot VIA. More details in the documentation."
     }
   }

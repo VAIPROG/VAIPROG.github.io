@@ -32,7 +32,7 @@
           </div>
 
           <a
-            href="https://github.com/Vadim-Khristenko/Vadim-Khristenko.github.io/blob/main/LICENSE"
+            href="https://github.com/VAIPROG/vai-rice.space/blob/main/LICENSE"
             target="_blank"
             rel="noopener"
             class="lic-full"
@@ -133,9 +133,9 @@ const T = {
     ],
   },
   copyright: L(
-    '© 2025–2026 Vadim Khristenko. Все права защищены в рамках указанных лицензий.',
-    '© 2025–2026 Vadim Khristenko. All rights reserved under the licenses above.',
-    '© 2025–2026 Vadim Khristenko。在上述许可范围内保留所有权利。'
+    '© 2025–2026 VAI_PROG (Vadim). Все права защищены в рамках указанных лицензий.',
+    '© 2025–2026 VAI_PROG (Vadim). All rights reserved under the licenses above.',
+    '© 2025–2026 VAI_PROG (Vadim)。在上述许可范围内保留所有权利。'
   ),
   contact: L('Вопросы о коммерческой лицензии:', 'Commercial licensing questions:', '商业授权咨询：'),
 };

@@ -10,9 +10,9 @@ export interface Props {
 }
 
 const {
-    title = "VAI_PROG — Vadim Khristenko · Developer, Rust & open-source",
+    title = "VAI_PROG — VAI_PROG (Vadim) · Developer, Rust & open-source",
     description =
-        "Portfolio of Vadim Khristenko (VAI_PROG): systems code, Rust & WebAssembly, bots, and 8 hand-crafted themes across three languages. Winner of the PROD olympiad.",
+        "Portfolio of VAI_PROG (Vadim): systems code, Rust & WebAssembly, bots, and 8 hand-crafted themes across three languages. Winner of the PROD olympiad.",
     lang = "ru",
     image = "/VAI-BANNER.png",
     noindex = false,
@@ -25,7 +25,7 @@ const ogImage = new URL(image, site).href;
 const personLd = {
     "@context": "https://schema.org",
     "@type": "Person",
-    name: "Vadim Khristenko",
+    name: "VAI_PROG (Vadim)",
     alternateName: ["VAI_PROG", "VAI Programmer"],
     url: site.href,
     image: ogImage,
@@ -36,7 +36,7 @@ const personLd = {
         "Networking", "DevOps", "Telegram bots",
     ],
     sameAs: [
-        "https://github.com/Vadim-Khristenko",
+        "https://github.com/VAIPROG",
         "https://x.com/VAI_PROG",
         "https://t.me/vscreator_life",
         "https://twitch.tv/VAI_PROG",
@@ -48,7 +48,7 @@ const siteLd = {
     name: "vai-rice.space",
     url: site.href,
     inLanguage: ["ru", "en", "zh"],
-    author: { "@type": "Person", name: "Vadim Khristenko" },
+    author: { "@type": "Person", name: "VAI_PROG (Vadim)" },
 };
 ---
 
@@ -63,7 +63,7 @@ const siteLd = {
         <link rel="canonical" href={canonical} />
         <meta
             name="keywords"
-            content="VAI_PROG, Vadim Khristenko, developer, Rust, WebAssembly, Leptos, Vue, Astro, bots, open source, portfolio, PROD olympiad"
+            content="VAI_PROG, VAI_PROG (Vadim), developer, Rust, WebAssembly, Leptos, Vue, Astro, bots, open source, portfolio, PROD olympiad"
         />
         <meta
             name="robots"
@@ -80,7 +80,7 @@ const siteLd = {
         <meta property="og:description" content={description} />
         <meta property="og:url" content={canonical} />
         <meta property="og:image" content={ogImage} />
-        <meta property="og:image:alt" content="VAI_PROG — Vadim Khristenko" />
+        <meta property="og:image:alt" content="VAI_PROG — VAI_PROG (Vadim)" />
         <meta property="og:locale" content="ru_RU" />
         <meta property="og:locale:alternate" content="en_US" />
         <meta property="og:locale:alternate" content="zh_CN" />

@@ -2,7 +2,7 @@
 name = "horizon"
 version = "0.2.0"
 edition = "2024"
-authors = ["Vadim Khristenko <business@vai-rice.space>"]
+authors = ["VAI_PROG (Vadim) <business@vai-rice.space>"]
 description = "Horizon 2027 — an interactive, branching New Year experience (Rust + Leptos + WASM)"
 
 [dependencies]

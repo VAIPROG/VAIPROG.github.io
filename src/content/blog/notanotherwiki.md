@@ -137,4 +137,4 @@ FilianWIKI с первого дня двуязычная. У каждой ста
 
 Дальше на очереди плагины, которые сообщество сможет писать само, и первый настоящий релиз.
 
-Код открыт: [github.com/Vadim-Khristenko/NotAnOtherVTUBERwiki](https://github.com/Vadim-Khristenko/NotAnOtherVTUBERwiki). Вики живёт на [beta.filian.wiki](https://beta.filian.wiki). Баннер и иконку FilianWIKI нарисовал **just.call.me.l** из SnackersHQ, руками, и за это отдельное спасибо.
+Код открыт: [github.com/VAIPROG/NotAnOtherVTUBERwiki](https://github.com/VAIPROG/NotAnOtherVTUBERwiki). Вики живёт на [beta.filian.wiki](https://beta.filian.wiki). Баннер и иконку FilianWIKI нарисовал **just.call.me.l** из SnackersHQ, руками, и за это отдельное спасибо.

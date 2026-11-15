@@ -1,8 +1,8 @@
-# VAI_PROG — Vadim Khristenko
+# VAI_PROG — VAI_PROG (Vadim)
 
 > Developer, bot creator and open-source activist. Systems code, Rust, networking, self-hosting. Building vai-rice.space and a set of small Rust→WebAssembly apps.
 
-Vadim Khristenko (handle **VAI_PROG**) is a young developer from Russia. He works across
+VAI_PROG (Vadim) (handle **VAI_PROG**) is a young developer from Russia. He works across
 systems programming (Rust, WASM), web (Astro, Vue, TypeScript), networking / VPN and
 Telegram bots, and is active in open source. Winner of the **PROD** olympiad.
 
@@ -10,7 +10,7 @@ Languages: Russian (native), English, Chinese content available across the site.
 
 ## Contact
 - Email: business@vai-rice.space
-- GitHub: https://github.com/Vadim-Khristenko
+- GitHub: https://github.com/VAIPROG
 - Website: https://vai-rice.space
 
 ## Mini-apps (Rust + Leptos → WebAssembly)

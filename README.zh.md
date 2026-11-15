@@ -8,8 +8,8 @@
 [English](README.md) · [Русский](README.ru.md) · **中文**
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fvai-rice.space&label=vai-rice.space)](https://vai-rice.space)
-[![Stars](https://img.shields.io/github/stars/Vadim-Khristenko/Vadim-Khristenko.github.io?style=flat&logo=github)](https://github.com/Vadim-Khristenko/Vadim-Khristenko.github.io/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/Vadim-Khristenko/Vadim-Khristenko.github.io)](https://github.com/Vadim-Khristenko/Vadim-Khristenko.github.io/commits)
+[![Stars](https://img.shields.io/github/stars/VAIPROG/vai-rice.space?style=flat&logo=github)](https://github.com/VAIPROG/vai-rice.space/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/VAIPROG/vai-rice.space)](https://github.com/VAIPROG/vai-rice.space/commits)
 [![Astro](https://img.shields.io/badge/Astro-7-BC52EE?logo=astro&logoColor=white)](https://astro.build)
 [![Vue](https://img.shields.io/badge/Vue-3.5-42b883?logo=vuedotjs&logoColor=white)](https://vuejs.org)
 [![Rust](https://img.shields.io/badge/Rust-WASM-dea584?logo=rust&logoColor=white)](https://www.rust-lang.org)
@@ -88,12 +88,12 @@ cd projects/horizon && trunk build --release
 ## 🤝 贡献
 
 知道某个社区或某个人应该出现在这里？填写三语 issue 表单：
-[推荐社区](https://github.com/Vadim-Khristenko/Vadim-Khristenko.github.io/issues/new?template=suggest-community.yml) ·
-[添加朋友](https://github.com/Vadim-Khristenko/Vadim-Khristenko.github.io/issues/new?template=suggest-friend.yml)。
+[推荐社区](https://github.com/VAIPROG/vai-rice.space/issues/new?template=suggest-community.yml) ·
+[添加朋友](https://github.com/VAIPROG/vai-rice.space/issues/new?template=suggest-friend.yml)。
 
 ## 📜 许可证
 
-**VKPPL v1.0** —— *Vadim Khristenko Personal Project License*。见 [LICENSE](LICENSE)。
+**VKPPL v1.0** —— *VAI_PROG (Vadim) Personal Project License*。见 [LICENSE](LICENSE)。
 
 - ✅ **非商业使用** —— 对所有人开放。
 - ❌ **商业使用** —— 未经许可不可。
@@ -101,4 +101,4 @@ cd projects/horizon && trunk build --release
 
 ## 📇 联系
 
-**business@vai-rice.space** · [vai-rice.space](https://vai-rice.space) · [github.com/Vadim-Khristenko](https://github.com/Vadim-Khristenko)
+**business@vai-rice.space** · [vai-rice.space](https://vai-rice.space) · [github.com/VAIPROG](https://github.com/VAIPROG)

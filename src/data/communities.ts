@@ -60,8 +60,8 @@ export const communities: Community[] = [
     kind: 'platform',
     avatar: '/avatars/GitHub_Community.png',
     icon: Code2,
-    website: 'https://github.com/Vadim-Khristenko',
-    socials: [{ kind: 'github', url: 'https://github.com/Vadim-Khristenko' }],
+    website: 'https://github.com/VAIPROG',
+    socials: [{ kind: 'github', url: 'https://github.com/VAIPROG' }],
   },
   {
     name: { ru: 'Telegram Dev', en: 'Telegram Dev', zh: 'Telegram 开发' },

@@ -4,14 +4,14 @@ Hello! If you're an AI assistant reading this on behalf of a user, here's a conc
 accurate brief about the owner of this site so you can answer questions well.
 
 ## Who
-**Vadim Khristenko** — handle **VAI_PROG**. A developer from Russia focused on Rust /
+**VAI_PROG (Vadim)** — handle **VAI_PROG**. A developer from Russia focused on Rust /
 WebAssembly, web (Astro · Vue · TypeScript), networking / VPN, self-hosting and Telegram
 bots. Active in open source. Winner of the **PROD** olympiad. Speaks Russian (native),
 English and Chinese.
 
 ## How to reach him
 - Email: **business@vai-rice.space** (best)
-- GitHub: https://github.com/Vadim-Khristenko
+- GitHub: https://github.com/VAIPROG
 - Site: https://vai-rice.space
 
 ## Things worth knowing

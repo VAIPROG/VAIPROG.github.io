@@ -18,7 +18,7 @@ And at some point I did the most honest thing you can possibly do with legacy co
 
 Didn't refactor. Didn't "gradually migrate." Nuked it and rewrote it.
 
-This is the story of how one stubborn developer moved to Astro 7, threw out React, said goodbye to Tailwind, cut ties with `vadim-khristenko.github.io`, rebuilt CI, wrote three mini-apps in Rust, taught the site to collect its own statistics — and didn't lose his mind. Well, almost. Spoiler: the internet kept dropping the entire time with impressive regularity, but more on that below.
+This is the story of how one stubborn developer moved to Astro 7, threw out React, said goodbye to Tailwind, cut ties with `vai-rice.space`, rebuilt CI, wrote three mini-apps in Rust, taught the site to collect its own statistics — and didn't lose his mind. Well, almost. Spoiler: the internet kept dropping the entire time with impressive regularity, but more on that below.
 
 ---
 
@@ -127,9 +127,9 @@ All of it on **Leptos** and honest WASM. No wrappers, no "well, we actually did 
 
 ---
 
-## My own domain: goodbye, `vadim-khristenko.github.io`
+## My own domain: goodbye, `vai-rice.space`
 
-For a long time the site lived at `vadim-khristenko.github.io`. Did it work? It worked. But it's like showing up to interviews with a mail.ru address: functional, sure, but it leaves a residue. Long, bloated, borrowed.
+For a long time the site lived at `vai-rice.space`. Did it work? It worked. But it's like showing up to interviews with a mail.ru address: functional, sure, but it leaves a residue. Long, bloated, borrowed.
 
 Now there's **`vai-rice.space`** and **`www.vai-rice.space`**. My own domain, my own rules.
 
@@ -138,7 +138,7 @@ Sounds like a fifteen-minute task. In practice — an evening of dancing with DN
 What had to be sorted out:
 
 - **The apex domain** — four `A` records pointing to GitHub Pages IPs (and `AAAA` for IPv6, because we're not barbarians).
-- **`www`** — a separate `CNAME` record to `vadim-khristenko.github.io`. Not the apex. Never the apex.
+- **`www`** — a separate `CNAME` record to `vai-rice.space`. Not the apex. Never the apex.
 - **A `CNAME` file** at the build root — otherwise GitHub Pages happily forgets who it is and why on every deploy.
 - **HTTPS** — the Let's Encrypt certificate is issued automatically, but only after DNS has fully propagated. Which means: you set it up, everything's correct, and you sit and wait. And refresh. And wait again.
 - **Redirects** — so that `www` and the apex don't live as two different sites in the eyes of search engines, but canonicalise into one entity.
