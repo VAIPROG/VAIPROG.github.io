@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T21:55:55.830Z",
+  "generatedAt": "2026-11-15T04:38:18.439Z",
   "user": {
     "repos": 43,
     "publicRepos": 43,
@@ -140,6 +140,42 @@
     }
   ],
   "repos": {
+    "foxford_api": {
+      "name": "foxford_api",
+      "stars": 7,
+      "forks": 0,
+      "issues": 1,
+      "language": "Python",
+      "url": "https://github.com/VAIPROG/foxford_api",
+      "description": "API FOXFORD | Код написанный на Языке Python который позволяет взаимодействовать с платформой foxford.ru"
+    },
+    "algo_async_api": {
+      "name": "algo_async_api",
+      "stars": 9,
+      "forks": 1,
+      "issues": 0,
+      "language": "Python",
+      "url": "https://github.com/VAIPROG/algo_async_api",
+      "description": "ALGO API | Код написанный на Языке Python который позволяет взаимодействовать с платформой learn.algoritmika.org"
+    },
+    "vaiprog.github.io": {
+      "name": "VAIPROG.github.io",
+      "stars": 1,
+      "forks": 0,
+      "issues": 4,
+      "language": "Vue",
+      "url": "https://github.com/VAIPROG/VAIPROG.github.io",
+      "description": "Just my portfolio website and smth more) (pwd by RUST & VUE & ASTRO)"
+    },
+    "vaiprog": {
+      "name": "VAIPROG",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "language": "Rust",
+      "url": "https://github.com/VAIPROG/VAIPROG",
+      "description": "Config files for my GitHub profile."
+    },
     "hatsunemikueditortheme": {
       "name": "HatsuneMikuEditorTheme",
       "stars": 3,
@@ -169,24 +205,6 @@
       "url": "https://github.com/VAIPROG/awg-containers-and-tools",
       "description": "Unofficial self-hosted AmneziaWG 1.0/1.5/2.0/3.0 — container images plus a Rust CLI for parameter generation, SSH deployment and server management",
       "release": "v0.5.5"
-    },
-    "vai-rice.space": {
-      "name": "vai-rice.space",
-      "stars": 1,
-      "forks": 0,
-      "issues": 4,
-      "language": "Vue",
-      "url": "https://github.com/VAIPROG/vai-rice.space",
-      "description": "Just my portfolio website and smth more) (pwd by RUST & VUE & ASTRO)"
-    },
-    "vaiprog": {
-      "name": "VAIPROG",
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "language": "Rust",
-      "url": "https://github.com/VAIPROG/VAIPROG",
-      "description": "Config files for my GitHub profile."
     },
     "notanothervtuberwiki": {
       "name": "NotAnOtherVTUBERwiki",
@@ -224,15 +242,6 @@
       "language": null,
       "url": "https://github.com/VAIPROG/slopcontest",
       "description": ""
-    },
-    "algo_async_api": {
-      "name": "algo_async_api",
-      "stars": 9,
-      "forks": 1,
-      "issues": 0,
-      "language": "Python",
-      "url": "https://github.com/VAIPROG/algo_async_api",
-      "description": "ALGO API | Код написанный на Языке Python который позволяет взаимодействовать с платформой learn.algoritmika.org"
     },
     "kivotosdustry": {
       "name": "KivotosDustry",
@@ -451,15 +460,6 @@
       "language": null,
       "url": "https://github.com/VAIPROG/VIA_info",
       "description": "Bug tracking system for VIA bot."
-    },
-    "foxford_api": {
-      "name": "foxford_api",
-      "stars": 7,
-      "forks": 0,
-      "issues": 1,
-      "language": "Python",
-      "url": "https://github.com/VAIPROG/foxford_api",
-      "description": "API FOXFORD | Код написанный на Языке Python который позволяет взаимодействовать с платформой foxford.ru"
     },
     "ejudge-registration": {
       "name": "ejudge-registration",
