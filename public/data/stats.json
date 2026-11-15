@@ -1,47 +1,47 @@
 {
-  "generatedAt": "2026-11-15T04:38:18.439Z",
+  "generatedAt": "2026-11-15T13:22:58.552Z",
   "user": {
     "repos": 43,
     "publicRepos": 43,
-    "stars": 484,
+    "stars": 485,
     "forks": 32,
     "followers": 54,
     "following": 17
   },
-  "linesOfCode": 551538,
+  "linesOfCode": 551472,
   "languages": [
     {
       "name": "Rust",
-      "bytes": 7427368,
-      "lines": 218452,
+      "bytes": 7426458,
+      "lines": 218425,
       "percent": 39.4,
       "color": "#dea584"
     },
     {
       "name": "TypeScript",
-      "bytes": 5072103,
-      "lines": 153700,
+      "bytes": 5071844,
+      "lines": 153692,
       "percent": 26.9,
       "color": "#3178c6"
     },
     {
       "name": "HTML",
-      "bytes": 1670888,
-      "lines": 39783,
+      "bytes": 1670834,
+      "lines": 39782,
       "percent": 8.9,
       "color": "#e34c26"
     },
     {
       "name": "Python",
-      "bytes": 1129395,
-      "lines": 37647,
+      "bytes": 1129377,
+      "lines": 37646,
       "percent": 6,
       "color": "#3572A5"
     },
     {
       "name": "Vue",
-      "bytes": 891052,
-      "lines": 26207,
+      "bytes": 890866,
+      "lines": 26202,
       "percent": 4.7,
       "color": "#41b883"
     },
@@ -54,29 +54,29 @@
     },
     {
       "name": "Go",
-      "bytes": 551162,
-      "lines": 18372,
+      "bytes": 550676,
+      "lines": 18356,
       "percent": 2.9,
       "color": "#00ADD8"
     },
     {
       "name": "JavaScript",
-      "bytes": 419715,
-      "lines": 12719,
+      "bytes": 419571,
+      "lines": 12714,
       "percent": 2.2,
       "color": "#f1e05a"
     },
     {
       "name": "PowerShell",
-      "bytes": 325906,
-      "lines": 9053,
+      "bytes": 325852,
+      "lines": 9051,
       "percent": 1.7,
       "color": "#8b8b8b"
     },
     {
       "name": "Shell",
-      "bytes": 259136,
-      "lines": 9255,
+      "bytes": 259118,
+      "lines": 9254,
       "percent": 1.4,
       "color": "#89e051"
     }
@@ -84,7 +84,7 @@
   "topRepos": [
     {
       "name": "Any-Tech-ARCHITECT",
-      "stars": 399,
+      "stars": 400,
       "forks": 22,
       "issues": 0,
       "language": "TypeScript",
@@ -140,6 +140,16 @@
     }
   ],
   "repos": {
+    "any-tech-architect": {
+      "name": "Any-Tech-ARCHITECT",
+      "stars": 400,
+      "forks": 22,
+      "issues": 0,
+      "language": "TypeScript",
+      "url": "https://github.com/VAIPROG/Any-Tech-ARCHITECT",
+      "description": "Any Tech ARCHITECT modern obfuscation generator for you.",
+      "release": "v4.5.2"
+    },
     "foxford_api": {
       "name": "foxford_api",
       "stars": 7,
@@ -185,16 +195,6 @@
       "url": "https://github.com/VAIPROG/HatsuneMikuEditorTheme",
       "description": "Hatsune Miku themes for VS Code, Zed, JetBrains, Neovim, Sublime, Notepad++",
       "release": "latest"
-    },
-    "any-tech-architect": {
-      "name": "Any-Tech-ARCHITECT",
-      "stars": 399,
-      "forks": 22,
-      "issues": 0,
-      "language": "TypeScript",
-      "url": "https://github.com/VAIPROG/Any-Tech-ARCHITECT",
-      "description": "Any Tech ARCHITECT modern obfuscation generator for you.",
-      "release": "v4.5.2"
     },
     "awg-containers-and-tools": {
       "name": "awg-containers-and-tools",
