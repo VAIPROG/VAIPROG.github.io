@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T15:26:39.427Z",
+  "generatedAt": "2026-11-18T00:27:18.768Z",
   "user": {
     "repos": 43,
     "publicRepos": 43,
-    "stars": 492,
+    "stars": 491,
     "forks": 32,
     "followers": 56,
     "following": 17
@@ -103,15 +103,6 @@
       "release": "v0.5.5"
     },
     {
-      "name": "Tedu_Notes",
-      "stars": 9,
-      "forks": 0,
-      "issues": 5,
-      "language": "Astro",
-      "url": "https://github.com/VAIPROG/Tedu_Notes",
-      "description": "Some IT Notes bcz we can)"
-    },
-    {
       "name": "algo_async_api",
       "stars": 9,
       "forks": 1,
@@ -119,6 +110,15 @@
       "language": "Python",
       "url": "https://github.com/VAIPROG/algo_async_api",
       "description": "ALGO API | Код написанный на Языке Python который позволяет взаимодействовать с платформой learn.algoritmika.org"
+    },
+    {
+      "name": "Tedu_Notes",
+      "stars": 8,
+      "forks": 0,
+      "issues": 5,
+      "language": "Astro",
+      "url": "https://github.com/VAIPROG/Tedu_Notes",
+      "description": "Some IT Notes bcz we can)"
     },
     {
       "name": "foxford_api",
@@ -140,6 +140,15 @@
     }
   ],
   "repos": {
+    "tedu_notes": {
+      "name": "Tedu_Notes",
+      "stars": 8,
+      "forks": 0,
+      "issues": 5,
+      "language": "Astro",
+      "url": "https://github.com/VAIPROG/Tedu_Notes",
+      "description": "Some IT Notes bcz we can)"
+    },
     "any-tech-architect": {
       "name": "Any-Tech-ARCHITECT",
       "stars": 407,
@@ -158,15 +167,6 @@
       "language": "Rust",
       "url": "https://github.com/VAIPROG/WhatCode",
       "description": "WhatCode: Uncompromising AI performance meets a bold, unforgettable personality."
-    },
-    "tedu_notes": {
-      "name": "Tedu_Notes",
-      "stars": 9,
-      "forks": 0,
-      "issues": 5,
-      "language": "Astro",
-      "url": "https://github.com/VAIPROG/Tedu_Notes",
-      "description": "Some IT Notes bcz we can)"
     },
     "foxford_api": {
       "name": "foxford_api",
