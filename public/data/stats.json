@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-22T04:52:41.820Z",
+  "generatedAt": "2026-11-22T13:58:38.701Z",
   "user": {
     "repos": 44,
     "publicRepos": 44,
-    "stars": 493,
+    "stars": 494,
     "forks": 33,
     "followers": 56,
     "following": 17
   },
-  "linesOfCode": 556889,
+  "linesOfCode": 563226,
   "languages": [
     {
       "name": "Rust",
       "bytes": 7426458,
       "lines": 218425,
-      "percent": 39,
+      "percent": 38.6,
       "color": "#dea584"
     },
     {
       "name": "TypeScript",
-      "bytes": 5250581,
-      "lines": 159109,
-      "percent": 27.6,
+      "bytes": 5459722,
+      "lines": 165446,
+      "percent": 28.4,
       "color": "#3178c6"
     },
     {
       "name": "HTML",
       "bytes": 1670834,
       "lines": 39782,
-      "percent": 8.8,
+      "percent": 8.7,
       "color": "#e34c26"
     },
     {
@@ -42,14 +42,14 @@
       "name": "Vue",
       "bytes": 890866,
       "lines": 26202,
-      "percent": 4.7,
+      "percent": 4.6,
       "color": "#41b883"
     },
     {
       "name": "CSS",
       "bytes": 737797,
       "lines": 26350,
-      "percent": 3.9,
+      "percent": 3.8,
       "color": "#563d7c"
     },
     {
@@ -77,14 +77,14 @@
       "name": "Shell",
       "bytes": 259118,
       "lines": 9254,
-      "percent": 1.4,
+      "percent": 1.3,
       "color": "#89e051"
     }
   ],
   "topRepos": [
     {
       "name": "Any-Tech-ARCHITECT",
-      "stars": 409,
+      "stars": 410,
       "forks": 23,
       "issues": 0,
       "language": "TypeScript",
@@ -140,24 +140,24 @@
     }
   ],
   "repos": {
-    "justnewmcp": {
-      "name": "JustNewMCP",
-      "stars": 0,
-      "forks": 0,
-      "issues": 2,
-      "language": "TypeScript",
-      "url": "https://github.com/VAIPROG/JustNewMCP",
-      "description": "New MCP server by VAI."
-    },
     "any-tech-architect": {
       "name": "Any-Tech-ARCHITECT",
-      "stars": 409,
+      "stars": 410,
       "forks": 23,
       "issues": 0,
       "language": "TypeScript",
       "url": "https://github.com/VAIPROG/Any-Tech-ARCHITECT",
       "description": "Any Tech ARCHITECT modern obfuscation generator for you.",
       "release": "v4.5.2"
+    },
+    "justnewmcp": {
+      "name": "JustNewMCP",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "language": "TypeScript",
+      "url": "https://github.com/VAIPROG/JustNewMCP",
+      "description": "New MCP server by VAI."
     },
     "tedu_notes": {
       "name": "Tedu_Notes",
