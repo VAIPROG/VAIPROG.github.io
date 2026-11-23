@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-23T05:32:51.689Z",
+  "generatedAt": "2026-11-23T17:15:47.972Z",
   "user": {
     "repos": 44,
     "publicRepos": 44,
-    "stars": 494,
+    "stars": 495,
     "forks": 33,
     "followers": 56,
     "following": 17
   },
-  "linesOfCode": 563722,
+  "linesOfCode": 564473,
   "languages": [
     {
       "name": "Rust",
@@ -19,9 +19,9 @@
     },
     {
       "name": "TypeScript",
-      "bytes": 5476095,
-      "lines": 165942,
-      "percent": 28.4,
+      "bytes": 5500884,
+      "lines": 166693,
+      "percent": 28.5,
       "color": "#3178c6"
     },
     {
@@ -84,7 +84,7 @@
   "topRepos": [
     {
       "name": "Any-Tech-ARCHITECT",
-      "stars": 410,
+      "stars": 411,
       "forks": 23,
       "issues": 0,
       "language": "TypeScript",
@@ -142,7 +142,7 @@
   "repos": {
     "any-tech-architect": {
       "name": "Any-Tech-ARCHITECT",
-      "stars": 410,
+      "stars": 411,
       "forks": 23,
       "issues": 0,
       "language": "TypeScript",
@@ -154,10 +154,11 @@
       "name": "JustNewMCP",
       "stars": 0,
       "forks": 0,
-      "issues": 1,
+      "issues": 0,
       "language": "TypeScript",
       "url": "https://github.com/VAIPROG/JustNewMCP",
-      "description": "New MCP server by VAI."
+      "description": "New MCP server by VAI.",
+      "release": "v0.1.0"
     },
     "tedu_notes": {
       "name": "Tedu_Notes",
